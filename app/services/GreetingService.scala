@@ -1,7 +1,6 @@
 package services
 
 import java.util.Calendar
-
 import com.google.inject.ImplementedBy
 
 class RealGreetingService extends GreetingService {
